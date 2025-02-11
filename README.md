@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ncamci
 - 👀 I’m interested in Conversational AI solutions
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Deep leraning and Reinforcement Learning
 - 💞️ I’m looking to collaborate on Conversational AI
 - 📫 How to reach me nurullahcmc@yahoo.com
 
